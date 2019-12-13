@@ -1,71 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d421c9cf-1c24-48bd-8806-0df9d1959195" name="Default Changelist" comment="" />
+    <list default="true" id="d421c9cf-1c24-48bd-8806-0df9d1959195" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CentroControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InvasionAlienigena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Nave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Utilidades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/input2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UvVDPdmChEFUX1uCiPdnPmc4Yj" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -78,6 +56,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -101,7 +84,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576236935255</updated>
+      <workItem from="1576236951546" duration="33335000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="146" width="374" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1576267554403">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state x="528" y="146" width="374" height="561" key="#com.intellij.ide.util.MemberChooser/0.0.1440.855@0.0.1440.855" timestamp="1576267554403" />
+    <state width="1394" height="221" key="GridCell.Tab.0.bottom" timestamp="1576275033949">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1394" height="221" key="GridCell.Tab.0.bottom/0.0.1440.855@0.0.1440.855" timestamp="1576275033949" />
+    <state width="1394" height="221" key="GridCell.Tab.0.center" timestamp="1576275033947">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1394" height="221" key="GridCell.Tab.0.center/0.0.1440.855@0.0.1440.855" timestamp="1576275033947" />
+    <state width="1394" height="221" key="GridCell.Tab.0.left" timestamp="1576275033947">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1394" height="221" key="GridCell.Tab.0.left/0.0.1440.855@0.0.1440.855" timestamp="1576275033947" />
+    <state width="1394" height="221" key="GridCell.Tab.0.right" timestamp="1576275033947">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1394" height="221" key="GridCell.Tab.0.right/0.0.1440.855@0.0.1440.855" timestamp="1576275033947" />
+    <state width="1394" height="265" key="GridCell.Tab.1.bottom" timestamp="1576245217382">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1394" height="265" key="GridCell.Tab.1.bottom/0.0.1440.855@0.0.1440.855" timestamp="1576245217382" />
+    <state width="1394" height="265" key="GridCell.Tab.1.center" timestamp="1576245217379">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1394" height="265" key="GridCell.Tab.1.center/0.0.1440.855@0.0.1440.855" timestamp="1576245217379" />
+    <state width="1394" height="265" key="GridCell.Tab.1.left" timestamp="1576245217378">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1394" height="265" key="GridCell.Tab.1.left/0.0.1440.855@0.0.1440.855" timestamp="1576245217378" />
+    <state width="1394" height="265" key="GridCell.Tab.1.right" timestamp="1576245217380">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1394" height="265" key="GridCell.Tab.1.right/0.0.1440.855@0.0.1440.855" timestamp="1576245217380" />
   </component>
 </project>
